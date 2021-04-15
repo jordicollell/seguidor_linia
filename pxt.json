@@ -1,5 +1,5 @@
 {
-    "name": "seguidor_linia",
+    "name": "seguidor_linia_so_parar",
     "description": "",
     "dependencies": {
         "core": "*",
